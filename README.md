@@ -15,4 +15,5 @@ Developed a self-playing Super Mario agent that can navigate and complete levels
 - PyTorch
 - OpenAI Gym
 - Super Mario Bros. NES emulator
+
 This project involved the development of a self-playing Super Mario agent utilizing deep learning techniques such as CNNs, RL, and DQN, as well as an ICM to enhance exploratory behavior. The project was implemented using Python and PyTorch and leveraged the OpenAI Gym and Super Mario Bros. NES emulator. The project's achievements included training a Super Mario agent that could navigate game levels autonomously and extensive experimentation to fine-tune performance.
