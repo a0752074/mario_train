@@ -1,4 +1,4 @@
-# Trained a Super Mario game level completion model using deep learning and unsupervised learning techniques.
+# Trained a Super Mario game level completion model 
 ## Project Description:
 Developed a self-playing Super Mario agent that can navigate and complete levels without human intervention, utilizing deep learning techniques including Convolutional Neural Networks (CNNs), Reinforcement Learning (RL), and the Deep Q-Network (DQN) algorithm. Additionally, the agent was enhanced with an Intrinsic Curiosity Module (ICM) to encourage exploratory behavior and improve performance.
 
