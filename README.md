@@ -4,7 +4,7 @@ Developed a self-playing Super Mario agent that can navigate and complete levels
 
 ## Key Achievements:
 
-#####  - Trained a Super Mario agent that can autonomously navigate through game levels
+- Trained a Super Mario agent that can autonomously navigate through game levels
 ##### Implemented CNNs to process game frames and RL techniques to learn optimal actions
 ##### Utilized the DQN algorithm to train the agent on the reward signal from the game environment
 ##### Integrated an ICM to facilitate exploratory behavior and improve overall performance
